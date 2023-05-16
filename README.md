@@ -11,4 +11,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozitos1h1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/joaozitos1h1)
